@@ -6,4 +6,6 @@ Cal descarregar certes llibreries per tal de poder fer funcionar els diferents e
 - Lora (GoSTEM_LoRA)
 - U8g2 (GoSTEM_LoRA, GoSTEM_BME)
 - Adafruit_BME280 (GoSTEM_BME)
+- SparkFun Ublox Arduino Library (GosTEM_GPS)
+- MicroNMEA (GoSTEM_GPS)
 
