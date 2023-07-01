@@ -9,3 +9,7 @@ Cal descarregar certes llibreries per tal de poder fer funcionar els diferents e
 - SparkFun Ublox Arduino Library (GosTEM_GPS)
 - MicroNMEA (GoSTEM_GPS)
 
+## GoSTEM OLED LoRA
+![Setup d'Exemple](https://github.com/GoSTEM-Education/Sensor_Examples/blob/main/LoRa_OLED.jpg?raw=true)
+## GoSTEM GPS LoRA
+![Setup d'Exemple](https://github.com/GoSTEM-Education/Sensor_Examples/blob/main/TBeam.jpg?raw=true)
